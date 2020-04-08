@@ -6,6 +6,9 @@ footer {
   width: 100%;
   padding-left: 175px;
 }
+.copyright-text {
+  font-size: 12px;
+}
 
 /* Media Queries Section */
 /* iPhone X Portrait */
